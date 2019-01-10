@@ -1,0 +1,17 @@
+C:\slam4arthur\sql 4.0\PPE\PPE\bin\Debug\PPE.exe
+C:\slam4arthur\sql 4.0\PPE\PPE\bin\Debug\PPE.pdb
+C:\slam4arthur\sql 4.0\PPE\PPE\obj\x86\Debug\PPE.Properties.Resources.resources
+C:\slam4arthur\sql 4.0\PPE\PPE\obj\x86\Debug\PPE.csproj.GenerateResource.Cache
+C:\slam4arthur\sql 4.0\PPE\PPE\obj\x86\Debug\PPE.exe
+C:\slam4arthur\sql 4.0\PPE\PPE\obj\x86\Debug\PPE.pdb
+C:\slam4arthur\sql 4.0\PPE\PPE\obj\x86\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\slam4arthur\sql 4.0\PPE\PPE\obj\x86\Debug\PPE.FenetrePrincipale.resources
+C:\PPE\PPE\obj\x86\Debug\PPE.exe
+C:\PPE\PPE\obj\x86\Debug\PPE.pdb
+C:\PPE\PPE\bin\Debug\PPE.exe
+C:\PPE\PPE\bin\Debug\PPE.pdb
+C:\PPE\PPE\obj\x86\Debug\PPE.csprojResolveAssemblyReference.cache
+C:\PPE\PPE\obj\x86\Debug\PPE.FenetrePrincipale.resources
+C:\PPE\PPE\obj\x86\Debug\PPE.Properties.Resources.resources
+C:\PPE\PPE\obj\x86\Debug\PPE.csproj.GenerateResource.Cache
+C:\PPE\PPE\obj\x86\Debug\PPE.Identification.resources
